@@ -11,7 +11,7 @@ logger.addHandler(fh)
 logger.info("logger inited and libraries are connected!")
 
 #paramets
-mac_addr = "db:f1:97:38:c2:f5"
+mac_addr = "db:f1:99:99:c2:f5"
 ds_id = "28-00ff98430ed2"
 
 # def exec_cmd(cmd):
